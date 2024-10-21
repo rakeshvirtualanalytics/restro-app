@@ -1,0 +1,4 @@
+.form-footer{background-color: transparent !important; background: none;border: 0px;justify-content: center;}
+.swp-btn{background: none;color: #000;border: 0px;}
+.swp-btn:hover{background: none;color: #000;border: 0px;}
+.footer-wrapper{position: fixed;bottom: 0;width: 100%;text-align: center;font-size: 15px;background-color: #fff;}
